@@ -3,7 +3,6 @@
 List of Materials:
 -8x8 LED MATRIX
 
-
 Code Description
 First, I created a character class for my project, so I can take the characters in the sentence I want to write from here and show them with an 8x8 led matrix. 
 Then I created a text array for the sentence I want to write (NURSAH B1605.010037). 
